@@ -6,9 +6,9 @@ tags:
 - Test
 - SQA
 created_at: 2020-05-22 00:00:00
-updated_at: 2020-05-22 12:28:49.198068
+updated_at: 2020-05-22 12:41:13.949641
 tldr: This is short description of the content and findings of the post.
-thumbnail: https://media-exp1.licdn.com/dms/image/C560BAQH8pQlFsbxKYw/company-logo_200_200/0?e=2159024400&v=beta&t=DvZcYTm6ESXbkXbcm-66DhNCBASagdOc57_4k7mTk1w
+thumbnail: images/output_5_1.png
 ---
 
 *NOTE: In the TL,DR, optimize for **clarity** and **comprehensiveness**. The goal is to convey the post with the least amount of friction, especially since ipython/beakers require much more scrolling than blog posts. Make the reader get a correct understanding of the post's takeaway, and the points supporting that takeaway without having to strain through paragraphs and tons of prose. Bullet points are great here, but are up to you. Try to avoid academic paper style abstracts.*
